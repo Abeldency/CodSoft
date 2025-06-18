@@ -1,2 +1,2 @@
 # CodSoft
-python programs
+Python programs
